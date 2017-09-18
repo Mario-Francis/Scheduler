@@ -15,4 +15,7 @@ This is a desktop application that helps you schedule your PC Shutdown, Restart,
   2. When the time is due for any of the power entry, it will execute the power option specified.
   3. When the time is due for any of the reminder entry, it will notify you about it.
   
+- Download
+  It can be downloaded via the below link
+  Link: https://drive.google.com/open?id=0B3mWUeaS1Wh4QjJ2UWFfMGE4N00
   Thanks!
